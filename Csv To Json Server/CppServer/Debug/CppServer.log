@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\inova\source\repos\FileServer\CppServer\main.cpp(68,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  CppServer.vcxproj -> C:\Users\inova\source\repos\FileServer\Debug\CppServer.exe
